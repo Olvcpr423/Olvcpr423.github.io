@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Olvcpr423 的博客'
 description: 'Stay strong China, Stay strong World'
-keyword: 'N/A KEYWORD'
+keyword: 'Olvcpr423's Blog'
 url: 'olvcpr423.github.io' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -61,7 +61,7 @@ sns:
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   zhihu: '//www.zhihu.com/people/h-chen-47'
   github: '//github.com/olvcpr423'
-  bilibili: '//space.bilibili.com/362073308'
+  
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
