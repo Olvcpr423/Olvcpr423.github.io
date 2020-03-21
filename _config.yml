@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  about: '/_posts/2020-03-21-about.md'
+  about: '/about.html'
 
 # Footer
 footer:
