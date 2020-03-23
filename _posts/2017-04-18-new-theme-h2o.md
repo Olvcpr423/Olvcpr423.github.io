@@ -123,3 +123,9 @@ H2O在这方面还有很多需要完善的地方，比如：<strike>代码高亮
 本想趁这次机会将整站https化的，但折腾了半天发现弹性web托管并不支持，所以暂时搁置https的想法。另外，博客统计工具一直使用的是[百度统计](https://tongji.baidu.com)，这次新增了Google Analytics。
 
 这次从0到1，独自设计、开发再到发布大约用了一周时间，也算完成一个小小的开源项目了，后续也将持续完善和更新，欢迎[Star](https://github.com/kaeyleo/jekyll-theme-H2O)。
+
+<br>
+<br>
+<font color= '#808080'>
+  此文章著作权归 Kaeyleo ，不适用于<a href= 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>。
+</font>
