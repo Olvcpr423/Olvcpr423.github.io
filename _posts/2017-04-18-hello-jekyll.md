@@ -28,5 +28,5 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 <br>
 <br>
 <font color= '#808080'>
-  此文章著作权归 Kaeyleo ，不适用于<a href= 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>。
+  此文章著作权归 <a href= 'https://github.com/kaeyleo'>Kaeyleo</a> ，不适用于<a href= 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>。
 </font>
