@@ -27,3 +27,9 @@ k &= m\oplus c
 $$
 
 **注意：**公式块要想有较好的显示效果，必须在公式块标记符`$$`**前后**留有空行，否则公式将不能正常居中。行内公式无此问题。
+
+<br>
+<br>
+<font color= '#808080'>
+  此文章著作权归 Kaeyleo ，不适用于<a href= 'https://creativecommons.org/licenses/by-nc-sa/4.0/'>知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>。
+</font>
