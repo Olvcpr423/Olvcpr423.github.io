@@ -2,7 +2,7 @@
 layout: post
 title: '我中文 Minecraft Wiki 贡献点数突破 1000！'
 subtitle: '喜讯'
-date: 2020-03-24
+date: 2020-04-13
 categories: Minecraft Wiki
 cvr: '/assets/img/hero.jpg'
 tags: Minecraft Wiki
