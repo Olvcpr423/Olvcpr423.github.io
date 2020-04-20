@@ -2,7 +2,7 @@
 layout: post
 title: '我的中文 Minecraft Wiki 贡献点数排名达到第 97 名！'
 subtitle: '喜讯'
-date: 2020-04-13
+date: 2020-04-20
 categories: Minecraft Wiki
 cvr: '/assets/img/hero.jpg'
 tags: Minecraft Wiki
