@@ -27,7 +27,7 @@ footer:
 # Author 配置博主信息
 author: 'Olvcpr423'
 nickname: 'N/A NICKNAME'
-bio: '对 <a href =&aposhttps://minecraft-zh.gamepedia.com/%E8%9C%9C%E8%84%BE&apos>Honeycomb</a> 和 <a href =&aposhttps://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C%E5%90%88%E9%87%91%E9%94%AD&apos>Netherite</a> 过敏'
+bio: '对 <a href ="https://minecraft-zh.gamepedia.com/%E8%9C%9C%E8%84%BE">Honeycomb</a> 和 <a href ="https://minecraft-zh.gamepedia.com/%E4%B8%8B%E7%95%8C%E5%90%88%E9%87%91%E9%94%AD">Netherite</a> 过敏'
 avatar: '/assets/img/profile.png'
 
 # Search
