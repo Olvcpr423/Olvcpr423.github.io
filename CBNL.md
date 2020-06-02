@@ -14,63 +14,63 @@ tags: 计算簿 Calcbook
 <b>常规计算本 (Conventional Calcbook； CCB)：</b>
 <br>
 1.  格林威治 (Greenwich)
-
+<br>
 2.  木星（Jupiter）
-
+<br>
 <3-6 Name Unknown >
-
+<br>
 <Unknown, (3<=x=<6)|(8<=x=<10)>新西兰 (New Zealand)
-
+<br>
 7.  开普勒 (Kepler)
-
+<br>
 <8-10 Name Unknown>
-
+<br>
 11.  Edge (前沿)
-
+<br>
 12.  哥伦布 (Columbus)
-
+<br>
 <Skip No.13>
-
+<br>
 14.  霍金 (Hawking)
-
+<br>
 15.  常绿阔叶林 (Evergreen broad-leaved forest)
-
+<br>
 16.  三棱镜 (Tri prism)
-
+<br>
 17.  地平线 (Horizon)
-
+<br>
 18.  16开 (16K)
-
-18.9 ̇  亚特兰蒂斯 (Atlantis)
-
+<br>
+18.9…  亚特兰蒂斯 (Atlantis)
+<br>
 19.  字节 (Byte)
-
+<br>
 20.  巨石阵 (Stonehenge)
-
+<br>
 21.  烧鸭 (Roast Duck)
-
+<br>
 22.  鳕鱼 (Cod)
-
+<br>
 23.  迪克•布鲁纳 (Dick Bruna)
-
+<br>
 24.  英特纳雄耐尔 (Internationale)
-
+<br>
 25.  阿蒙森 (Amundsen)
-
+<br>
 26.  Craft Lawrence
-
+<br>
 <b>特别计算本 (Special Calcbook; ECB)：</b>
 <br>
 E1.  粤港澳大湾区 (Guangdong-Hong Kong-Macao Greater Bay Area)
-
+<br>
 E2.  自己不要脸没人会给 (No one will respect a thief)
-
+<br>
 <b>备用计算本 (Spare Clacbook; ACB)：</b>
 <br>
 A1. 蛟龙 (Jiaolong)
-
+<br>
 A2. 北极星 (Polaris)
-
+<br>
 A3. 莱茵河 (Rhine)
-
+<br>
 A4. Au
