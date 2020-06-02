@@ -29,7 +29,7 @@ tags: 计算簿 Calcbook
 <br>
 12.  哥伦布 (Columbus)
 <br>
-<Skip No.13>
+(Skip No.13)
 <br>
 14.  霍金 (Hawking)
 <br>
@@ -59,11 +59,13 @@ tags: 计算簿 Calcbook
 <br>
 26.  Craft Lawrence
 <br>
+<br>
 <b>特别计算本 (Special Calcbook; ECB)：</b>
 <br>
 E1.  粤港澳大湾区 (Guangdong-Hong Kong-Macao Greater Bay Area)
 <br>
 E2.  自己不要脸没人会给 (No one will respect a thief)
+<br>
 <br>
 <b>备用计算本 (Spare Clacbook; ACB)：</b>
 <br>
