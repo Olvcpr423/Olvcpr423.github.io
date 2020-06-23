@@ -2,7 +2,7 @@
 layout: post
 title: 'Minecraft Java 版 1.16 正式发布'
 subtitle: 'Minecraft Java Edition 1.16'
-date: 2020-06-05
+date: 2020-06-24
 categories: Minecraft
 cover: '/assets/img/2020-06-23-Minecraft Java 版 1.16 正式发布/NetherUpdateArtwork.png'
 tags: Minecraft 翻译
