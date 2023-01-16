@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '关于更改对 Safari 一词的翻译策略的提示'
-subtitle: 'Notice of the change in the translate policy for the word `Safari`'
+subtitle: 'Notice of the change in the translate policy for the word Safari'
 date: 2023-01-17
 categories: Mozilla L10n
 cvr: '/assets/img/hero.jpg'
