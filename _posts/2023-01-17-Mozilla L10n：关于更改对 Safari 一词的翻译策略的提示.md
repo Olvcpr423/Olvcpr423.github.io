@@ -7,6 +7,7 @@ categories: Mozilla L10n
 cvr: '/assets/img/hero.jpg'
 tags: Mozilla 翻译
 ---
+
 鉴于 Apple 自 iOS 11/macOS High Sierra 开始已将系统内置的网络浏览器名称（简体中文）由“Safari”更改为“Safari 浏览器”，为了与系统保持一致，提升用户体验一致性，经综合考虑，现对 Safari 一词的翻译策略做一些调整，细则如下：
 
 ***
