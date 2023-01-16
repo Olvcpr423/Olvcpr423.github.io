@@ -8,7 +8,9 @@ cvr: '/assets/img/hero.jpg'
 tags: Mozilla 翻译
 ---
 鉴于 Apple 自 iOS 11/macOS High Sierra 开始已将系统内置的网络浏览器名称（简体中文）由“Safari”更改为“Safari 浏览器”，为了与系统保持一致，提升用户体验一致性，经综合考虑，现对 Safari 一词的翻译策略做一些调整，细则如下：
+
 ***
+
 1. 将 Firefox、Firefox for iOS、Focus for iOS 等在 Apple 操作系统上提供的软件，以及其他项目中仅适用于 Apple 操作系统的字符串（例如 [Common Voice 项目中这条仅适用于 iOS 的报错信息](https://pontoon.mozilla.org/zh-CN/all-projects/all-resources/?string=209891)）中的“Safari”翻译为“Safari 浏览器”。依实际情况，其应通过下列方式之一来实现：
 
     **情况 1**<br>原文：`{ -brand-name-safari }`<br>译文：`{ -brand-name-safari } 浏览器`
@@ -22,4 +24,5 @@ tags: Mozilla 翻译
 此后的翻译应该延续这些规则，以保持一致性。如对此次更改有疑问或意见，请电邮至 oliverchan86[at]outlook.com 提出。祝贡献愉快！
 
 ***
+
 简体中文审阅员（Translator）<br>**Olvcpr423**（Not affiliated with Mozilla）
