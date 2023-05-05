@@ -2,7 +2,7 @@
 layout: post
 title: '本人即日起将不再活跃于 Minecraft 本地化项目及相关翻译讨论'
 subtitle: '<i>I did it all.</i>'
-date: 2023-05-06
+date: 2023-05-05
 categories: 翻译
 cvr: '/assets/img/hero.jpg'
 tags: 翻译 Minecraft
@@ -19,4 +19,4 @@ Minecraft 本地化项目可以说是我的本地化启蒙之地，我从项目�
 ---
 
 Olvcpr423<br>
-2023 年 5 月 6 日
+2023 年 5 月 5 日
