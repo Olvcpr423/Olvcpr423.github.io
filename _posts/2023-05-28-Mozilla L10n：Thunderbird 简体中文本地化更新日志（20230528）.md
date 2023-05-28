@@ -10,7 +10,7 @@ tags: 翻译 Mozilla
 
 **\>\>\> 20230528 更新日志<<<**
 
-此前，Thunderbird 设置界面部分选项字符串的译文以冒号结尾，access key 则由程序自动添加在字符串的最末尾，恰好是在冒号的后方（如 `每次显示：(O)  %S小时`）。这样既不美观，也可能引起歧义。因此，我们选择在不影响语义的前提下，将相关字符串的冒号全部移除，更改过后预期显示效果举例为 `每次显示(O)  %S小时`，参见下图。
+此前，Thunderbird 设置界面部分选项字符串的译文以冒号结尾，access key 则由程序自动添加在字符串的最末尾，恰好是在冒号的后方（如“每次显示：(O)  %S小时”）。这样既不美观，也可能引起歧义。因此，我们选择在不影响语义的前提下，将相关字符串的冒号全部移除，更改过后预期显示效果举例为“每次显示(O)  %S小时”，参见下图。
 
 ![更改前后的对比图。左图中部分 access key 出现在冒号后方，右图中将这些字符串的冒号去除](/assets/img/Mozilla L10n：Thunderbird 简体中文本地化更新日志（20230528）/compare.png "对比图：左为更改前，右为更改后")
 
@@ -18,7 +18,7 @@ tags: 翻译 Mozilla
 
 **\>\>\> 20230528 工作笔记<<<**
 
-按照[微软的简体中文本地化标准](https://www.microsoft.com/zh-cn/language/StyleGuides)，access key 不应出现在标点符号后方。（所以原则上按钮文本诸如 `浏览…(B)` 也应改成 `浏览(B)…`。）理想的做法是使用 `&` 方法手动将 access key 放到标点符号前（示例：`每次显示(&O)：  %S小时`)，但很遗憾 Mozilla 软件的大部分字符串使用 [Fluent 语法](https://mozilla-l10n.github.io/localizer-documentation/tools/fluent/basic_syntax.html)，需要在 FTL 中的 `.accesskey` 片段中指定 access key，如
+按照[微软的简体中文本地化标准](https://www.microsoft.com/zh-cn/language/StyleGuides)，access key 不应出现在标点符号后方。（所以原则上按钮文本诸如“浏览…(B)”也应改成“浏览(B)…”。）理想的做法是使用 `&` 方法手动将 access key 放到标点符号前（示例：`每次显示(&O)：  %S小时`)，但很遗憾 Mozilla 软件的大部分字符串使用 [Fluent 语法](https://mozilla-l10n.github.io/localizer-documentation/tools/fluent/basic_syntax.html)，需要在 FTL 中的 `.accesskey` 片段中指定 access key，如
 
 ```
 visible-hours-label =
