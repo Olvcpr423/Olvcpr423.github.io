@@ -38,10 +38,10 @@ visible-hours-label =
 
 ```
 visible-hours-label =
-    .value = 每次显示(O)
+    .value = 每次显示(O)：
     .accesskey = o
 ```
-如此一来，由于字符串中含与 access key 相同的字符，显示效果就将会是“每次显示(<u>O</u>)”，这原是极好的。但很可惜，Thunderbird 是一个运行在 Windows、macOS 与 Linux 上的跨平台软件，上面这个方案并不兼容所有这些系统，如 macOS 就没有 access key 而只有 shortcut key<sup>[1]</sup>，因此 access key 在 macOS 上会隐藏，而上面这个方案会导致 access key 在所有平台上都显示出来，误导用户操作。因此最终没有采用这个方案，只好妥协将冒号去掉。
+如此一来，由于字符串中含与 access key 相同的字符，显示效果就将会是“每次显示(<u>O</u>)：”，这原是极好的。但很可惜，Thunderbird 是一个运行在 Windows、macOS 与 Linux 上的跨平台软件，上面这个方案并不兼容所有这些系统，如 macOS 就没有 access key 而只有 shortcut key<sup>[1]</sup>，因此 access key 在 macOS 上会隐藏，而上面这个方案会导致 access key 在所有平台上都显示出来，误导用户操作。因此最终没有采用这个方案，只好妥协将冒号去掉。
 
 省略号的问题就只能忍忍了，删除省略号会影响语义（省略号代表点击按钮后仍需进一步操作），因此不能去掉。
 
