@@ -1,0 +1,12 @@
+---
+layout: post
+title: 'Olvcpr423 已开始从 Fandom Minecraft Wiki 退休'
+subtitle: '橄榄社受权公告'
+date: 2023-09-25
+categories: 公告
+cvr: '/assets/img/hero.jpg'
+tags: 公告
+---
+**橄榄社 9 月 25 日电**  原托管于 Fandom 的 Minecraft Wiki（下称“旧 wiki”）已于今天早些时候开始迁移至 RuneScape Wiki，英文 wiki 首先完成迁移。Olvcpr423 已将账户数据迁移至托管于 RuneScape Wiki 的 Minecraft Wiki（下称“新 wiki”），即日起开始从旧 wiki 退休，退休进程持续至中文 wiki 完成迁移。Olvcpr423 未来将在新 wiki 上进行编辑。
+
+![托管于 RuneScape Wiki 的 Minecraft Wiki 的 Olvcpr423 用户页截图](/assets/img/Olvcpr423 已开始从 Fandom Minecraft Wiki 退休/newwiki.png)
