@@ -68,7 +68,7 @@ a {
     margin-left: 2%;
     width: 60px;
     height: 26px;
-    background: url("/avatar.jpg") no-repeat center;
+    background: url("/assets/icons/logo_default.jpg") no-repeat center;
     background-size: 100% 100%;
     opacity: .8;
     transition: all .2s; }
