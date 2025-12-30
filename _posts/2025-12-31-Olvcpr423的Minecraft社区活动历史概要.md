@@ -5,7 +5,7 @@ subtitle: '（2025 年 12 月 31 日）'
 date: 2025-12-31
 categories: 公告
 cvr: '/assets/img/hero.jpg'
-tags: 公告
+tags: 公告 Minecraft
 ---
 Olvcpr423 自 2015 年起游玩 Minecraft。在 2019 至 2025 年共 7 年时间里参与了 Minecraft 社区，主要活跃于 Minecraft Wiki、原版游戏本地化、我的世界中文论坛等领域，基本上围绕本地化和翻译开展活动。
 
