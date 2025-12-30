@@ -2,7 +2,7 @@
 layout: post
 title: 'Olvcpr423 的 Minecraft 社区活动历史概要'
 subtitle: '（2025 年 12 月 31 日）'
-date: 2025-12-31
+date: 2025-12-30
 categories: 公告
 cvr: '/assets/img/hero.jpg'
 tags: 公告 Minecraft
